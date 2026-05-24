@@ -1,0 +1,20 @@
+{
+	"name": "1752Advisors",
+	"short_name": "1752",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"icons": [
+		{
+			"src": "assets/img/1752_Advisors_Logo.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/img/1752_Advisors_Logo.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
